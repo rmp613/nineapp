@@ -1,0 +1,7 @@
+# .gitignore for nineapp.herokuapp.com by Riordan Pawley
+
+# ignore node modules
+node_modules/
+
+#ignore log filles
+.log
